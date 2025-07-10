@@ -1,0 +1,11 @@
+C:\Users\felip\Desktop\finance-controller\finance.Core\bin\Debug\net9.0\finance.Core.deps.json
+C:\Users\felip\Desktop\finance-controller\finance.Core\bin\Debug\net9.0\finance.Core.dll
+C:\Users\felip\Desktop\finance-controller\finance.Core\bin\Debug\net9.0\finance.Core.pdb
+C:\Users\felip\Desktop\finance-controller\finance.Core\obj\Debug\net9.0\finance.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\finance-controller\finance.Core\obj\Debug\net9.0\finance.Core.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\finance-controller\finance.Core\obj\Debug\net9.0\finance.Core.AssemblyInfo.cs
+C:\Users\felip\Desktop\finance-controller\finance.Core\obj\Debug\net9.0\finance.Core.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\finance-controller\finance.Core\obj\Debug\net9.0\finance.Core.dll
+C:\Users\felip\Desktop\finance-controller\finance.Core\obj\Debug\net9.0\refint\finance.Core.dll
+C:\Users\felip\Desktop\finance-controller\finance.Core\obj\Debug\net9.0\finance.Core.pdb
+C:\Users\felip\Desktop\finance-controller\finance.Core\obj\Debug\net9.0\ref\finance.Core.dll
