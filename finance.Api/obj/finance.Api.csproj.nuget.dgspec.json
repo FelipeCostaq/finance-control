@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\felip\\Desktop\\finance-controller\\finance.Api\\finance.Api.csproj": {}
+    "C:\\Users\\felip\\Desktop\\finance-control\\finance-control\\finance.Api\\finance.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\felip\\Desktop\\finance-controller\\finance.Api\\finance.Api.csproj": {
+    "C:\\Users\\felip\\Desktop\\finance-control\\finance-control\\finance.Api\\finance.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\felip\\Desktop\\finance-controller\\finance.Api\\finance.Api.csproj",
+        "projectUniqueName": "C:\\Users\\felip\\Desktop\\finance-control\\finance-control\\finance.Api\\finance.Api.csproj",
         "projectName": "finance.Api",
-        "projectPath": "C:\\Users\\felip\\Desktop\\finance-controller\\finance.Api\\finance.Api.csproj",
+        "projectPath": "C:\\Users\\felip\\Desktop\\finance-control\\finance-control\\finance.Api\\finance.Api.csproj",
         "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\felip\\Desktop\\finance-controller\\finance.Api\\obj\\",
+        "outputPath": "C:\\Users\\felip\\Desktop\\finance-control\\finance-control\\finance.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\felip\\Desktop\\finance-controller\\finance.Core\\finance.Core.csproj": {
-                "projectPath": "C:\\Users\\felip\\Desktop\\finance-controller\\finance.Core\\finance.Core.csproj"
+              "C:\\Users\\felip\\Desktop\\finance-control\\finance-control\\finance.Core\\finance.Core.csproj": {
+                "projectPath": "C:\\Users\\felip\\Desktop\\finance-control\\finance-control\\finance.Core\\finance.Core.csproj"
               }
             }
           }
@@ -54,6 +54,18 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -77,14 +89,14 @@
         }
       }
     },
-    "C:\\Users\\felip\\Desktop\\finance-controller\\finance.Core\\finance.Core.csproj": {
+    "C:\\Users\\felip\\Desktop\\finance-control\\finance-control\\finance.Core\\finance.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\felip\\Desktop\\finance-controller\\finance.Core\\finance.Core.csproj",
+        "projectUniqueName": "C:\\Users\\felip\\Desktop\\finance-control\\finance-control\\finance.Core\\finance.Core.csproj",
         "projectName": "finance.Core",
-        "projectPath": "C:\\Users\\felip\\Desktop\\finance-controller\\finance.Core\\finance.Core.csproj",
+        "projectPath": "C:\\Users\\felip\\Desktop\\finance-control\\finance-control\\finance.Core\\finance.Core.csproj",
         "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\felip\\Desktop\\finance-controller\\finance.Core\\obj\\",
+        "outputPath": "C:\\Users\\felip\\Desktop\\finance-control\\finance-control\\finance.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

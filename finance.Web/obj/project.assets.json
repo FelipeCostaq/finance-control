@@ -1789,11 +1789,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\felip\\Desktop\\finance-controller\\finance.Web\\finance.Web.csproj",
+      "projectUniqueName": "C:\\Users\\felip\\Desktop\\finance-control\\finance-control\\finance.Web\\finance.Web.csproj",
       "projectName": "finance.Web",
-      "projectPath": "C:\\Users\\felip\\Desktop\\finance-controller\\finance.Web\\finance.Web.csproj",
+      "projectPath": "C:\\Users\\felip\\Desktop\\finance-control\\finance-control\\finance.Web\\finance.Web.csproj",
       "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\felip\\Desktop\\finance-controller\\finance.Web\\obj\\",
+      "outputPath": "C:\\Users\\felip\\Desktop\\finance-control\\finance-control\\finance.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1815,8 +1815,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\felip\\Desktop\\finance-controller\\finance.Core\\finance.Core.csproj": {
-              "projectPath": "C:\\Users\\felip\\Desktop\\finance-controller\\finance.Core\\finance.Core.csproj"
+            "C:\\Users\\felip\\Desktop\\finance-control\\finance-control\\finance.Core\\finance.Core.csproj": {
+              "projectPath": "C:\\Users\\felip\\Desktop\\finance-control\\finance-control\\finance.Core\\finance.Core.csproj"
             }
           }
         }
