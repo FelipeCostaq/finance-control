@@ -1,8 +1,8 @@
-﻿using finance.Core.Requests.Categories;
+﻿using finance.Core.Models;
+using finance.Core.Requests.Categories;
 using finance.Core.Responses;
-using finance.Core.Models;
 
-namespace finance.Core.Handler;
+namespace finance.Core.Handlers;
 
 public interface ICategoryHandler
 {

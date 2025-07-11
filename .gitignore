@@ -1,0 +1,40 @@
+﻿# Build e cache do .NET
+bin/
+obj/
+out/
+
+# Arquivos de usuário e IDE
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.bak
+
+# Configurações locais
+.env
+.env.*
+
+# Diretórios de publicação
+publish/
+wwwroot/lib/
+
+# Arquivos do Rider 
+.idea/
+
+# Pacotes gerados
+*.nupkg
+*.snupkg
+
+# Sistema operacional
+.DS_Store
+Thumbs.db

@@ -10,5 +10,5 @@ public class AppDbContext(DbContextOptions options) : DbContext(options)
     public DbSet<Transaction> Transactions { get; set; }  = null!;
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
-        => modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetCallingAssembly());
+        => modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
 }

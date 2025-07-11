@@ -1,10 +1,8 @@
 ﻿using finance.Core.Models;
-using finance.Core.Requests.Categories;
 using finance.Core.Requests.Transactions;
 using finance.Core.Responses;
 
-namespace finance.Core.Handler;
-
+namespace finance.Core.Handlers;
 
 public interface ITransactionHandler
 {
